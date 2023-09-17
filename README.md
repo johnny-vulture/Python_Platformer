@@ -1,2 +1,3 @@
 # Python-Platformer
-![ScreenShot](https://raw.github.com/johnny-vulture/Python_Platformer/assets/Screenshot (191).png)
+![Screenshot](/Python_Platformer/assets/Screenshot (191).png?raw=true "Game screenshot")
+
